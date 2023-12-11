@@ -13,6 +13,8 @@
 		ECC30AA72B22E9DC00EB75D6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ECC30AA52B22E9DC00EB75D6 /* Main.storyboard */; };
 		ECC30AA92B22E9DD00EB75D6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ECC30AA82B22E9DD00EB75D6 /* Assets.xcassets */; };
 		ECC30AAC2B22E9DD00EB75D6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ECC30AAA2B22E9DD00EB75D6 /* LaunchScreen.storyboard */; };
+		ECC30AB62B23055600EB75D6 /* CustomTableVc.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECC30AB52B23055600EB75D6 /* CustomTableVc.swift */; };
+		ECC30AB82B2325B400EB75D6 /* cellData.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECC30AB72B2325B400EB75D6 /* cellData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		ECC30AA82B22E9DD00EB75D6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ECC30AAB2B22E9DD00EB75D6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ECC30AAD2B22E9DD00EB75D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ECC30AB52B23055600EB75D6 /* CustomTableVc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableVc.swift; sourceTree = "<group>"; };
+		ECC30AB72B2325B400EB75D6 /* cellData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cellData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				ECC30A9F2B22E9DC00EB75D6 /* AppDelegate.swift */,
 				ECC30AA12B22E9DC00EB75D6 /* SceneDelegate.swift */,
 				ECC30AA32B22E9DC00EB75D6 /* ViewController.swift */,
+				ECC30AB72B2325B400EB75D6 /* cellData.swift */,
+				ECC30AB52B23055600EB75D6 /* CustomTableVc.swift */,
 				ECC30AA52B22E9DC00EB75D6 /* Main.storyboard */,
 				ECC30AA82B22E9DD00EB75D6 /* Assets.xcassets */,
 				ECC30AAA2B22E9DD00EB75D6 /* LaunchScreen.storyboard */,
@@ -140,6 +146,8 @@
 			files = (
 				ECC30AA42B22E9DC00EB75D6 /* ViewController.swift in Sources */,
 				ECC30AA02B22E9DC00EB75D6 /* AppDelegate.swift in Sources */,
+				ECC30AB62B23055600EB75D6 /* CustomTableVc.swift in Sources */,
+				ECC30AB82B2325B400EB75D6 /* cellData.swift in Sources */,
 				ECC30AA22B22E9DC00EB75D6 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
